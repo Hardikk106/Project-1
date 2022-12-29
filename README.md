@@ -1,3 +1,2 @@
 # Project-1
-
-I think single page website would be great to start.Here is demo of website's body structure.On This structure i will make further changes.   
+Some new changes like new nav bar, Deletation of section and other changes has made as per requirement.
